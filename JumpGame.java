@@ -32,6 +32,7 @@ public class JumpGame {
 
         // Example 2
         int[] nums2 = {1,2,1,1,1};
+        
         System.out.println("Example 2: " + solution.canJump(nums2)); // Expected: false
 
         // You can add more test cases here

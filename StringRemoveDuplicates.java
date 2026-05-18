@@ -5,7 +5,7 @@
 // Explanation:  g(ee)ksforg(ee)k -> gksforgk
 class StringRemoveDuplicates {
     public static void main(String[] args) {
-        String s="keekeeksorgeek";
+        String s="keeekeeksorgeek";
         System.out.println(s);
         String r="";
         int i=0;
